@@ -1,0 +1,6 @@
+{
+  "name": "Homemade Pickles & Snacks",
+  "description": "A premium website concept demo showcasing traditional homemade South Indian pickles and artisanal snacks for @homemadepickels_snacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
